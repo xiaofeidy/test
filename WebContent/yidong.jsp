@@ -52,6 +52,6 @@ $(function(){
 </script>
 </head>
 <body>
-<div id="box"></div>
+<div id="box">1234</div>
 </body>
 </html>
